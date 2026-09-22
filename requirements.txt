@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+onnx
+onnxruntime
+numpy
+pydantic
+pytest
+httpx
